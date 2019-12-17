@@ -37,7 +37,7 @@ body {
 }
 
 a {
-    color: #e38cb7;
+    color: #827D82;
 }
 
 a:hover,
@@ -84,12 +84,12 @@ p {
 }
 
 p.lead {
-    color: #e38cb7;
+    color: #827D82;
     margin-bottom: 2rem;
 }
 
 .text-primary {
-    color: #e38cb7 !important;
+    color: #827D82 !important;
 }
 
 .light-font {
@@ -186,10 +186,10 @@ p.lead {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-    background-color: rgb(28,162,204);
-    background: -moz-linear-gradient(180deg, rgba(28,162,204,1) 0%, rgba(90,207,195,0.72) 100%);
-    background: -webkit-linear-gradient(180deg, rgba(28,162,204,1) 0%, rgba(90,207,195,0.72) 100%);
-    background: linear-gradient(180deg, rgba(28,162,204,1) 0%, rgba(90,207,195,0.72) 100%);
+    background-color: #00adee;
+    background: -moz-linear-gradient(180deg, #00adee 0%, #2bb554 100%);
+    background: -webkit-linear-gradient(180deg, #00adee 0%, #2bb554 100%);
+    background: linear-gradient(180deg, #00adee 0%, #2bb554 100%);
     -webkit-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
@@ -240,10 +240,10 @@ header {
 }
 
 .bg-gradient {
-    background-image: -moz-linear-gradient(180deg, rgba(28,162,204,1) 0%, rgba(90,207,195,0.72) 100%);
-    background-image: -webkit-linear-gradient(180deg, rgba(28,162,204,1) 0%, rgba(90,207,195,0.72) 100%);
-    background-image: -ms-linear-gradient( 180deg, rgba(28,162,204,1) 0%, rgba(90,207,195,0.72) 100%);
-    background-image: linear-gradient(180deg, rgba(28,162,204,1) 0%, rgba(90,207,195,0.72) 100%);
+    background-image: -moz-linear-gradient(180deg, #00adee 0%, #2bb554 90%);
+    background-image: -webkit-linear-gradient(180deg, #00adee 0%, #2bb554 90%);
+    background-image: -ms-linear-gradient( 180deg, #00adee 0%, #2bb554 90%);
+    background-image: linear-gradient(180deg, #00adee 0%, #2bb554 100%);
 }
 
 .tagline {
@@ -625,13 +625,13 @@ header {
     line-height: 50px;
     margin: 0 0.3rem;
     border-radius: 5px;
-    color: #f4c9e2;
+    color: #A9A9A9;
     transition: all 0.3s ease;
 }
 
 .social-icons a:hover {
     text-decoration: none;
-    color: #e38cb7;
+    color: #827D82;
 }
 
 @media (max-width:991px) {
